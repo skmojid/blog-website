@@ -1,7 +1,8 @@
 # How to Create a Blog PHP & MySQL database
 
-## PHP Blogging Website
+## PHP Blogging
 
+<p align="center"><a target="_blank"><img src="Screenshot 2026-02-13 191746.png" width="400" alt="Laravel Logo"></a></p>
 
 version: 1.0.0
 
